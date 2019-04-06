@@ -1,0 +1,2 @@
+# citrus
+Citrus is an application that incorporates the idea of fitness with the issue of traffic prevailing in LA.  There will be kiosk with a tablet installed on it. People can perform any physical activity listed on it like pushups, squats etc to earn credits. These credits can further be used to unlock electric scooters to travel around. Open pose library has been used to detect contour points and an algorithm has been designed which checks if the activities have been done in the right manner or not. 
